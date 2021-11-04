@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\assets\\css",
+    "\\src\\assets\\img",
+    "\\src\\components",
+    "\\src\\components\\barchart",
+    "\\src\\components\\datatable",
+    "\\src\\components\\donutchart"
   ],
+  "SelectedNode": "\\src\\components\\donutchart\\index.tsx",
   "PreviewInSolutionExplorer": false
 }
