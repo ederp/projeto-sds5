@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public",
     "\\src",
-    "\\src\\assets",
-    "\\src\\assets\\css",
-    "\\src\\assets\\img",
     "\\src\\components",
-    "\\src\\components\\barchart",
-    "\\src\\components\\datatable",
-    "\\src\\components\\donutchart"
+    "\\src\\components\\donutchart",
+    "\\src\\components\\Pagination",
+    "\\src\\pages",
+    "\\src\\pages\\dashboard",
+    "\\src\\pages\\Home",
+    "\\src\\types",
+    "\\src\\utils"
   ],
-  "SelectedNode": "\\src\\components\\donutchart\\index.tsx",
+  "SelectedNode": "\\tsconfig.json",
   "PreviewInSolutionExplorer": false
 }
